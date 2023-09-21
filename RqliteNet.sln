@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RqliteNet", "RqliteNet\RqliteNet.csproj", "{D43272C5-1DD6-4A20-A842-A45CAE9FB68C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RqliteNet.Example", "RqliteNet.Example\RqliteNet.Example.csproj", "{42472653-F731-4A9D-B542-1536AC27B97E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RqliteNet.AspNet.Example", "RqliteNet.AspNet.Example\RqliteNet.AspNet.Example.csproj", "{7077AFF4-624C-4F75-87E0-C0232317DF03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RqliteNet.AspNet", "RqliteNet.AspNet\RqliteNet.AspNet.csproj", "{E1C57B19-E6D4-4B48-8F11-8689EC34EF9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orleans.Persistence.RqliteNet", "Orleans.Persistence.RqliteNet\Orleans.Persistence.RqliteNet.csproj", "{6CB6A6EA-5A4A-46BE-B9D3-7240B2774B27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RqliteNet.Orleans.Example", "RqliteNet.Orleans.Example\RqliteNet.Orleans.Example.csproj", "{5D6D39E5-E2FE-4C52-A4A8-215B980715E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43272C5-1DD6-4A20-A842-A45CAE9FB68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43272C5-1DD6-4A20-A842-A45CAE9FB68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43272C5-1DD6-4A20-A842-A45CAE9FB68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43272C5-1DD6-4A20-A842-A45CAE9FB68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42472653-F731-4A9D-B542-1536AC27B97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42472653-F731-4A9D-B542-1536AC27B97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42472653-F731-4A9D-B542-1536AC27B97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42472653-F731-4A9D-B542-1536AC27B97E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7077AFF4-624C-4F75-87E0-C0232317DF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7077AFF4-624C-4F75-87E0-C0232317DF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7077AFF4-624C-4F75-87E0-C0232317DF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7077AFF4-624C-4F75-87E0-C0232317DF03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C57B19-E6D4-4B48-8F11-8689EC34EF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C57B19-E6D4-4B48-8F11-8689EC34EF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C57B19-E6D4-4B48-8F11-8689EC34EF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C57B19-E6D4-4B48-8F11-8689EC34EF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB6A6EA-5A4A-46BE-B9D3-7240B2774B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB6A6EA-5A4A-46BE-B9D3-7240B2774B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB6A6EA-5A4A-46BE-B9D3-7240B2774B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB6A6EA-5A4A-46BE-B9D3-7240B2774B27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6D39E5-E2FE-4C52-A4A8-215B980715E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6D39E5-E2FE-4C52-A4A8-215B980715E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6D39E5-E2FE-4C52-A4A8-215B980715E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6D39E5-E2FE-4C52-A4A8-215B980715E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9269EEE7-A606-416E-9178-25B0D36A97E1}
+	EndGlobalSection
+EndGlobal
