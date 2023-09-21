@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RqliteNet.AspNet", "RqliteN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orleans.Persistence.RqliteNet", "Orleans.Persistence.RqliteNet\Orleans.Persistence.RqliteNet.csproj", "{6CB6A6EA-5A4A-46BE-B9D3-7240B2774B27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RqliteNet.Orleans.Example", "RqliteNet.Orleans.Example\RqliteNet.Orleans.Example.csproj", "{5D6D39E5-E2FE-4C52-A4A8-215B980715E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RqliteNet.Orleans.Example", "RqliteNet.Orleans.Example\RqliteNet.Orleans.Example.csproj", "{5D6D39E5-E2FE-4C52-A4A8-215B980715E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

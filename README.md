@@ -11,7 +11,3 @@ Based on [rqlite-dotnet](https://github.com/rqlite/rqlite-dotnet) - adjusted to 
 
 ## Use at Your Own Risk
 ![GitHub](https://img.shields.io/github/license/sec/rqlite-net)
-
-## TODO
-* tests
-* nuget's

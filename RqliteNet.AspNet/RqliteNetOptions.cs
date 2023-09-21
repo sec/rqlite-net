@@ -2,5 +2,5 @@
 
 public class RqliteNetOptions
 {
-    public required string Uri { get; set; }
+    public string? Uri { get; set; }
 }
