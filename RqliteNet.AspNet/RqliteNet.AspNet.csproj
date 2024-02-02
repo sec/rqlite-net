@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
 	<PropertyGroup>
-		<TargetFrameworks>net6.0;net7.0</TargetFrameworks>
+		<TargetFrameworks>net6.0;net7.0;net8.0</TargetFrameworks>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<OutputType>Library</OutputType>
@@ -10,7 +10,7 @@
 
 	<PropertyGroup>
 		<PackageId>RqliteNet.AspNet</PackageId>
-		<Version>1.0.0</Version>
+		<Version>1.1.0</Version>
 		<Authors>Szczepan</Authors>
 		<Title>RqliteNet.AspNet</Title>
 		<Description>.NET library to use rqlite with ASP.NET</Description>
