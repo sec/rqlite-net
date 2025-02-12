@@ -123,7 +123,7 @@ public class RqliteNetClient : IRqliteNetClient
     {
         using var request = new HttpRequestMessage(HttpMethod.Post, url)
         {
-            Content = new StringContent(json)
+            Content = new StringContent(json, Encoding.UTF8, "application/json")
         };
 
         using var response = await _http.SendAsync(request);
