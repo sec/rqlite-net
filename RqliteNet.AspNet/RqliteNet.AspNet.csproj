@@ -10,7 +10,7 @@
 
 	<PropertyGroup>
 		<PackageId>RqliteNet.AspNet</PackageId>
-		<Version>2.0.0</Version>
+		<Version>2.0.1</Version>
 		<Authors>Szczepan</Authors>
 		<Title>RqliteNet.AspNet</Title>
 		<Description>.NET library to use rqlite with ASP.NET</Description>
